@@ -1,0 +1,11 @@
+
+<title>服务器状态</title>
+<!--本页面仅为跳转页面-->
+
+<script>
+function func(){
+window.location.href="https://qm.qq.com/cgi-bin/qm/qr?k=lYI7WJtXkQjKMyim-Zak3x6gJh2tACg5&authKey=JZcifZP/v67MXOapEFaXsCwYUbelQjPyG0A/4Kiw8EGcH019YNDysqip1Wc98lPw&noverify=0"
+}
+setTimeout(func,1000);
+//自动跳转
+</script>
